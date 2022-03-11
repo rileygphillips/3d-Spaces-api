@@ -1,0 +1,38 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Riley Phillips",
+            "location": "Nashville,TN",
+            "email": "rpdeveloping@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Jim Smith",
+            "location": "Chicago,IL",
+            "email": "jimsmith@gmail.com"
+        }
+    ],
+    "spaces": [
+        {
+            "id": 1,
+            "userId": 1,
+            "location": "Nashville,TN",
+            "squareFootage": 1200,
+            "numberOfScans": 64,
+            "numberOfLevels": 1,
+            "3dTourLink": ,
+            "spaceTypeId": 2
+        }
+    ],
+    "spaceTypes": [
+        {
+            "id": 1,
+            "type": "commercial"
+        },
+        {
+            "id": 2,
+            "type": "residential"
+        }
+    ]
+}
